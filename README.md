@@ -1,3 +1,3 @@
 # MiniMap
 
-It's a playground
+It's a playground. Probably sticking with mapboxGL.
