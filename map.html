@@ -82,16 +82,30 @@
             data: url_voronoi,
           },
           paint: {
-            "fill-color": {
-              type: "identity",
-              property: "color",
-            },
+            "fill-color": [
+              "match",
+              ["geometry-type"],
+              "Polygon",
+              ["get", "color"], // Individual colors for polygons
+              "GeometryCollection",
+              [
+                "match",
+                ["get", "geometry-type"],
+                "Polygon",
+                ["get", "color"],
+                "purple", "purple",
+                "white", // Default color if no match
+              ],
+              /* Add more cases as needed */
+              "yellow", "yellow",
+              "white", // Default color if no match
+            ],
             "fill-outline-color": "rgba(200, 100, 240, 1)",
           },
         });
 
         map.addLayer({
-          id: "poi-labels",
+          id: "place-labels",
           type: "symbol",
           source: "places",
           layout: {
@@ -109,9 +123,9 @@
         const center = map.getCenter();
         document.getElementById(
           "coordinates"
-        ).innerHTML = `Longitude: ${center.lng.toFixed(
-          4
-        )}, Latitude: ${center.lat.toFixed(4)}`;
+        ).innerHTML = `Longitude: ${center.lng.toFixed(4)}
+        Latitude: ${center.lat.toFixed(4)}
+        Zoom: ${map.getZoom().toFixed(2)}`;
       }
 
       // Listen for the "move" event and update the coordinates
@@ -122,21 +136,22 @@
         when a user clicks on the map element.
         */
       map.on("click", (event) => {
-        // If the user clicked on one of your markers, get its information.
         const features = map.queryRenderedFeatures(event.point, {
-          layers: "points_layer", // replace with your layer name
+          layers: ["place-labels"],
         });
         if (!features.length) {
           return;
         }
         const feature = features[0];
-
-        map.setZoom(8);
-        map.setCenter([0, 0]);
+        console.log(feature);
       });
 
       // Call updateCoordinates once to set the initial coordinates
       updateCoordinates();
+
+      map.addControl(new mapboxgl.NavigationControl());
+      map.setZoom(8);
+      map.setCenter([0, 0]);
     </script>
   </body>
 </html>

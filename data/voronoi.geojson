@@ -4,14 +4,19 @@
       {
         "id": "0",
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          
+        },
         "geometry": {
           "type": "GeometryCollection",
+          "properties": {
+            "color": "purple"
+          },
           "geometries": [
             {
               "type": "Polygon",
               "properties": {
-                "color": "red"
+                "color": "purple"
               },
               "coordinates": [
                 [
@@ -60,13 +65,7 @@
                     0.8635379731471688
                   ]
                 ]
-              ],
-              "style": {
-                "__comment": "all SVG styles allowed",
-                "fill":"red",
-                "stroke-width":"3",
-                "fill-opacity":0.6
-              }
+              ]
             },
             {
               "type": "Polygon",
