@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "zero zero",
+        "icon": "map-pin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "The Gaslight",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1, 1]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Horrible Harry's",
+        "icon": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1, -5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Bike Party",
+        "icon": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3, 4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Rockabilly Rockstars",
+        "icon": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11, 11]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "District Drum Tribe",
+        "icon": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6, 8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Motown Memories",
+        "icon": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4, 4]
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Loci Map</title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <style>
+      #map {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+      }
+      #coordinates {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        font-size: 14px;
+        background-color: rgba(50, 138, 182, 0.9);
+        padding: 4px 8px;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="coordinates"></div>
+    <script>
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoiY3J1Z2dnaWVybyIsImEiOiJja3pteWFjMTAxZ2k3MndueHZnbmhuaDN2In0.N9uLqiw04di8ghl1-KUkdw";
+      var map = new mapboxgl.Map({
+        container: "map",
+        style: {
+          version: 8,
+          name: "Empty",
+          metadata: {
+            "mapbox:autocomposite": true,
+          },
+          glyphs: "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+          sources: {},
+          layers: [
+            {
+              id: "background",
+              type: "background",
+              paint: {
+                "background-color": "rgba(0,0,0,0)",
+              },
+            },
+          ],
+        },
+      });
+
+      const url_voronoi = "http://localhost:8000/data/voronoi.geojson";
+      const url_places = "http://localhost:8000/data/points.geojson";
+
+      map.on("load", function () {
+        // Sources
+        map.addSource("voronoi", {
+          type: "geojson",
+          data: url_voronoi,
+        });
+
+        // Add a GeoJSON source containing place coordinates and information.
+        map.addSource("places", {
+          type: "geojson",
+          data: url_places,
+        });
+
+        // Layers
+        map.addLayer({
+          id: "voronoi_layer",
+          type: "fill",
+          source: {
+            type: "geojson",
+            data: url_voronoi,
+          },
+          paint: {
+            "fill-color": {
+              type: "identity",
+              property: "color",
+            },
+            "fill-outline-color": "rgba(200, 100, 240, 1)",
+          },
+        });
+
+        map.addLayer({
+          id: "poi-labels",
+          type: "symbol",
+          source: "places",
+          layout: {
+            "text-field": ["get", "description"],
+            "text-variable-anchor": ["top", "bottom", "left", "right"],
+            "text-radial-offset": 0.5,
+            "text-justify": "auto",
+            "icon-image": ["get", "icon"],
+          },
+        });
+      });
+
+      // Update the #coordinates element with the current coordinates of the map center
+      function updateCoordinates() {
+        const center = map.getCenter();
+        document.getElementById(
+          "coordinates"
+        ).innerHTML = `Longitude: ${center.lng.toFixed(
+          4
+        )}, Latitude: ${center.lat.toFixed(4)}`;
+      }
+
+      // Listen for the "move" event and update the coordinates
+      map.on("move", updateCoordinates);
+
+      /* 
+        Add an event listener that runs
+        when a user clicks on the map element.
+        */
+      map.on("click", (event) => {
+        // If the user clicked on one of your markers, get its information.
+        const features = map.queryRenderedFeatures(event.point, {
+          layers: "points_layer", // replace with your layer name
+        });
+        if (!features.length) {
+          return;
+        }
+        const feature = features[0];
+
+        map.setZoom(8);
+        map.setCenter([0, 0]);
+      });
+
+      // Call updateCoordinates once to set the initial coordinates
+      updateCoordinates();
+
+      // Add zoom and rotation controls to the map.
+        map.addControl(new mapboxgl.NavigationControl());
+    </script>
+  </body>
+</html>
