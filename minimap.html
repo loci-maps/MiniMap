@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>LociMaps: Mini Map</title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+      #coordinates {
+        position: absolute;
+        font-family: sans-serif;
+        bottom: 10px;
+        left: 10px;
+        font-size: 14px;
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 4px 8px;
+        border-radius: 4px;
+        color: #222;
+        border: 2px solid black;
+        background-color: #bbb;
+        border-width: 2px;
+        border-style: solid;
+      }
+      .point-info {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: 10px;
+        margin-left: 10px;
+        padding: 4px 8px;
+        width: 30%;
+        font-size: 14px;
+        color: #222;
+        border: 2px solid black;
+        background-color: #bbb;
+        border-radius: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div class="point-info">
+      <div><strong>Label:</strong> <span id="label"></span></div>
+    </div>
+    <div id="coordinates"></div>
+
+    <script>
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoiY3J1Z2dnaWVybyIsImEiOiJja3pteWFjMTAxZ2k3MndueHZnbmhuaDN2In0.N9uLqiw04di8ghl1-KUkdw";
+
+      const map = new mapboxgl.Map({
+        container: "map",
+        style: {
+          version: 8,
+          name: "Empty",
+          metadata: {
+            "mapbox:autocomposite": true,
+          },
+          glyphs: "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+          sources: {},
+          layers: [
+            {
+              id: "background",
+              type: "background",
+              paint: {
+                "background-color": "#F5E4CC",
+              },
+            },
+          ],
+        },
+        zoom: 8,
+      });
+
+      map.on("style.load", function () {
+        /*
+         * =====================================================================================
+         * Sources
+         * =====================================================================================
+         */
+         const url_voronoi_big = "http://localhost:8080/data/layers/pca5_voronoi_big.geojson";
+         const url_voronoi_small = "http://localhost:8080/data/layers/pca5_voronoi_small.geojson";
+         const url_voronoi = "http://localhost:8080/data/layers/pca5_voronoi.geojson";
+         const url_files = "http://localhost:8080/data/layers/pca5_final_layer.geojson";
+
+         map.addSource("voronoi-big-source", {
+          type: "geojson",
+          data: url_voronoi_big,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("voronoi-small-source", {
+          type: "geojson",
+          data: url_voronoi_small,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("voronoi-source", {
+          type: "geojson",
+          data: url_voronoi,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("files-source", {
+          type: "geojson",
+          data: url_files,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        /*
+         * =====================================================================================
+         * Layers
+         * =====================================================================================
+         */
+
+        // Add big voronoi polygons, adjust line opacity based on zoom level
+        // map.addLayer({
+        //   id: "voronoi-big-layer",
+        //   type: "line",
+        //   source: "voronoi-big-source",
+        //   paint: {
+        //     "line-color": {
+        //       type: "identity",
+        //       property: "color",
+        //     },
+        //     "line-width": 2,
+        //   },
+        //   'filter': ['all', ['<=', ['zoom'], ['get', 'max_zoom']], ['>=', ['zoom'], ['get', 'min_zoom']]]
+        // });
+
+        // // Add small voronoi polygons
+        // map.addLayer({
+        //   id: "voronoi-small-layer",
+        //   type: "line",
+        //   source: "voronoi-small-source",
+        //   paint: {
+        //     "line-color": {
+        //       type: "identity",
+        //       property: "color",
+        //     },
+        //     "line-width": 2,
+        //   },
+        //   'filter': ['all', ['<=', ['zoom'], ['get', 'max_zoom']], ['>=', ['zoom'], ['get', 'min_zoom']]]
+        // });
+
+        // Add voronoi polygons, adjust line opacity based on zoom level, .3 at zoom 10-22 and .1 at zoom 9, .05 at zoom 8, 0.01 at zoom 7, 0 at zoom 6
+        map.addLayer({
+          id: "voronoi-layer",
+          type: "line",
+          source: "voronoi-source",
+          paint: {
+            "line-color": {
+              type: "identity",
+              property: "color",
+            },
+            "line-width": 2,
+          },
+          'filter': ['all', ['<=', ['zoom'], ['get', 'max_zoom']], ['>=', ['zoom'], ['get', 'min_zoom']]]
+        });
+
+        // Add markers to the map
+        map.addLayer({
+          id: "files-points-layer",
+          type: "circle",
+          source: "files-source",
+          paint: {
+            "circle-stroke-color": [
+              "case",
+              ["boolean", ["feature-state", "hover"], false],
+              "#fff",
+              "#000",
+            ],
+            "circle-stroke-width": [
+              "case",
+              ["boolean", ["feature-state", "hover"], false],
+              3,
+              2,
+            ],
+            "circle-radius": [
+              "case",
+              ["boolean", ["feature-state", "hover"], false],
+              15,
+              5,
+            ],
+            "circle-color": [
+              "case",
+              ["boolean", ["feature-state", "hover"], false],
+              ["get", "color"],
+              ["get", "color"],
+            ],
+          },
+        });
+
+        // Add labels to the markers, min zoom of 7
+        map.addLayer({
+          id: "files-labels-layer",
+          type: "symbol",
+          source: "files-source",
+          layout: {
+            "text-field": ["get", "label"],
+            "text-size": 12,
+            "text-anchor": "top",
+          },
+          paint: {
+            "text-color": "#000000",
+          },
+          "minzoom": 7,
+        });
+      });
+
+      /*
+       * =====================================================================================
+       * Move
+       * =====================================================================================
+       */
+
+      function updateCoordinates() {
+        const center = map.getCenter();
+        document.getElementById(
+          "coordinates"
+        ).innerHTML = `<strong>Longitude:</strong> ${center.lng.toFixed(4)}
+            <strong>Latitude:</strong> ${center.lat.toFixed(4)}
+            <strong>Zoom:</strong> ${map.getZoom().toFixed(2)}`;
+      }
+
+      map.on("move", updateCoordinates);
+      updateCoordinates();
+
+      /*
+       * =====================================================================================
+       * Hover
+       * =====================================================================================
+       */
+
+      let pointID = null;
+
+      map.on("mousemove", "files-points-layer", (event) => {
+        map.getCanvas().style.cursor = "pointer";
+
+        if (event.features.length === 0) return;
+
+        if (pointID) {
+          map.removeFeatureState({
+            source: "files-source",
+            id: pointID,
+          });
+        }
+
+        pointID = event.features[0].id;
+
+        map.setFeatureState(
+          { source: "files-source", id: pointID },
+          { hover: true }
+        );
+
+        document.getElementById("label").textContent =
+          event.features[0].properties.label;
+      });
+
+      function resetHoverState() {
+        if (pointID) {
+          map.setFeatureState(
+            { source: "files-source", id: pointID },
+            { hover: false }
+          );
+        }
+        pointID = null;
+
+        document.getElementById("label").textContent = "";
+        map.getCanvas().style.cursor = "";
+      }
+
+      map.on("mouseleave", "files-points-layer", function () {
+        resetHoverState();
+      });
+
+      map.on("mouseleave", "files-labels-layer", function () {
+        resetHoverState();
+      });
+      /*
+       * =====================================================================================
+       * Click
+       * =====================================================================================
+       */
+
+      map.on("click", "files-points-layer", function (e) {
+        const coordinates = e.features[0].geometry.coordinates.slice();
+        const label = e.features[0].properties.label;
+
+        map.flyTo({
+          center: e.features[0].geometry.coordinates
+        });
+
+        new mapboxgl.Popup()
+          .setLngLat(coordinates)
+          .setHTML("<h3>" + label + "</h3>")
+          .addTo(map);
+      });
+
+      /*
+       * =====================================================================================
+       * Zoom and Controls
+       * =====================================================================================
+       */
+
+      map.addControl(new mapboxgl.NavigationControl());
+
+      /*
+       * =====================================================================================
+       *
+       * =====================================================================================
+       */
+    </script>
+  </body>
+</html>
