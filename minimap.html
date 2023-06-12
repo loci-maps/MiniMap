@@ -8,7 +8,7 @@
       content="initial-scale=1,maximum-scale=1,user-scalable=no"
     />
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
-    <link rel="icon" type="image/x-icon" href="images/locimap.png">
+    <link rel="icon" type="image/x-icon" href="images/locimap.png" />
     <link
       href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css"
       rel="stylesheet"
@@ -94,22 +94,35 @@
          * Sources
          * =====================================================================================
          */
-         const url_voronoi_big = "http://localhost:8080/data/layers/pca5_voronoi_big.geojson";
-         const url_voronoi_small = "http://localhost:8080/data/layers/pca5_voronoi_small.geojson";
-         const url_voronoi = "http://localhost:8080/data/layers/pca5_voronoi.geojson";
-         const url_files = "http://localhost:8080/data/layers/pca5_final_layer.geojson";
 
-         map.addSource("voronoi-big-source", {
-          type: "geojson",
-          data: url_voronoi_big,
-          generateId: true, // This ensures that all features have unique IDs
-        });
-
-        map.addSource("voronoi-small-source", {
-          type: "geojson",
-          data: url_voronoi_small,
-          generateId: true, // This ensures that all features have unique IDs
-        });
+        const url_voronoi =
+          "http://localhost:8080/data/layers/pca5_voronoi.geojson";
+        const url_final_layer =
+          "http://localhost:8080/data/layers/complete/final_layer.geojson";
+        const url_layer0 =
+          "http://localhost:8080/data/layers/complete/layer0.geojson";
+        const url_layer1 =
+          "http://localhost:8080/data/layers/complete/layer1.geojson";
+        const url_layer2 =
+          "http://localhost:8080/data/layers/complete/layer2.geojson";
+        const url_layer3 =
+          "http://localhost:8080/data/layers/complete/layer3.geojson";
+        const url_layer4 =
+          "http://localhost:8080/data/layers/complete/layer4.geojson";
+        const url_layer5 =
+          "http://localhost:8080/data/layers/complete/layer5.geojson";
+        const url_layer6 =
+          "http://localhost:8080/data/layers/complete/layer6.geojson";
+        const url_layer7 =
+          "http://localhost:8080/data/layers/complete/layer7.geojson";
+        const url_layer8 =
+          "http://localhost:8080/data/layers/complete/layer8.geojson";
+        const url_layer9 =
+          "http://localhost:8080/data/layers/complete/layer9.geojson";
+        const url_layer10 =
+          "http://localhost:8080/data/layers/complete/layer10.geojson";
+        const url_layer11 =
+          "http://localhost:8080/data/layers/complete/layer11.geojson";
 
         map.addSource("voronoi-source", {
           type: "geojson",
@@ -117,9 +130,81 @@
           generateId: true, // This ensures that all features have unique IDs
         });
 
-        map.addSource("files-source", {
+        map.addSource("final-layer-source", {
           type: "geojson",
-          data: url_files,
+          data: url_final_layer,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer0-source", {
+          type: "geojson",
+          data: url_layer0,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer1-source", {
+          type: "geojson",
+          data: url_layer1,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer2-source", {
+          type: "geojson",
+          data: url_layer2,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer3-source", {
+          type: "geojson",
+          data: url_layer3,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer4-source", {
+          type: "geojson",
+          data: url_layer4,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer5-source", {
+          type: "geojson",
+          data: url_layer5,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer6-source", {
+          type: "geojson",
+          data: url_layer6,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer7-source", {
+          type: "geojson",
+          data: url_layer7,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer8-source", {
+          type: "geojson",
+          data: url_layer8,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer9-source", {
+          type: "geojson",
+          data: url_layer9,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer10-source", {
+          type: "geojson",
+          data: url_layer10,
+          generateId: true, // This ensures that all features have unique IDs
+        });
+
+        map.addSource("layer11-source", {
+          type: "geojson",
+          data: url_layer11,
           generateId: true, // This ensures that all features have unique IDs
         });
 
@@ -128,36 +213,6 @@
          * Layers
          * =====================================================================================
          */
-
-        // Add big voronoi polygons, adjust line opacity based on zoom level
-        // map.addLayer({
-        //   id: "voronoi-big-layer",
-        //   type: "line",
-        //   source: "voronoi-big-source",
-        //   paint: {
-        //     "line-color": {
-        //       type: "identity",
-        //       property: "color",
-        //     },
-        //     "line-width": 2,
-        //   },
-        //   'filter': ['all', ['<=', ['zoom'], ['get', 'max_zoom']], ['>=', ['zoom'], ['get', 'min_zoom']]]
-        // });
-
-        // // Add small voronoi polygons
-        // map.addLayer({
-        //   id: "voronoi-small-layer",
-        //   type: "line",
-        //   source: "voronoi-small-source",
-        //   paint: {
-        //     "line-color": {
-        //       type: "identity",
-        //       property: "color",
-        //     },
-        //     "line-width": 2,
-        //   },
-        //   'filter': ['all', ['<=', ['zoom'], ['get', 'max_zoom']], ['>=', ['zoom'], ['get', 'min_zoom']]]
-        // });
 
         // Add voronoi polygons, adjust line opacity based on zoom level, .3 at zoom 10-22 and .1 at zoom 9, .05 at zoom 8, 0.01 at zoom 7, 0 at zoom 6
         map.addLayer({
@@ -170,15 +225,29 @@
               property: "color",
             },
             "line-width": 2,
+            "line-opacity": [
+              "interpolate",
+              ["linear"],
+              ["zoom"],
+              7.5,
+              0, // Initial zoom level and opacity (fully transparent)
+              10,
+              1, // Target zoom level and opacity (fully opaque)
+            ],
           },
-          'filter': ['all', ['<=', ['zoom'], ['get', 'max_zoom']], ['>=', ['zoom'], ['get', 'min_zoom']]]
+          minzoom: 7.5,
+          filter: [
+            "all",
+            ["<=", ["zoom"], ["get", "max_zoom"]],
+            [">=", ["zoom"], ["get", "min_zoom"]],
+          ],
         });
 
         // Add markers to the map
         map.addLayer({
-          id: "files-points-layer",
+          id: "final-points-layer",
           type: "circle",
-          source: "files-source",
+          source: "final-layer-source",
           paint: {
             "circle-stroke-color": [
               "case",
@@ -187,10 +256,13 @@
               "#000",
             ],
             "circle-stroke-width": [
-              "case",
-              ["boolean", ["feature-state", "hover"], false],
-              3,
-              2,
+              "interpolate",
+              ["linear"],
+              ["zoom"],
+              7,
+              0, // Initial zoom level and stroke width
+              8,
+              2, // Target zoom level and stroke width
             ],
             "circle-radius": [
               "case",
@@ -204,14 +276,24 @@
               ["get", "color"],
               ["get", "color"],
             ],
+            "circle-opacity": [
+              "interpolate",
+              ["linear"],
+              ["zoom"],
+              5,
+              0, // Initial zoom level and opacity (fully transparent)
+              8,
+              1, // Target zoom level and opacity (fully opaque)
+            ],
           },
+          minzoom: 5,
         });
 
         // Add labels to the markers, min zoom of 7
         map.addLayer({
-          id: "files-labels-layer",
+          id: "final-labels-layer",
           type: "symbol",
-          source: "files-source",
+          source: "final-layer-source",
           layout: {
             "text-field": ["get", "label"],
             "text-size": 12,
@@ -220,7 +302,71 @@
           paint: {
             "text-color": "#000000",
           },
-          "minzoom": 7,
+          minzoom: 8,
+        });
+
+        map.addLayer({
+          id: "layer8-layer",
+          type: "symbol",
+          source: "layer8-source",
+          layout: {
+            "text-field": ["get", "label"],
+            "text-size": 12,
+            "text-anchor": "top",
+          },
+          paint: {
+            "text-color": "#000000",
+          },
+          minzoom: 1,
+          maxzoom: 8,
+        });
+
+        map.addLayer({
+          id: "layer9-layer",
+          type: "symbol",
+          source: "layer9-source",
+          layout: {
+            "text-field": ["get", "label"],
+            "text-size": 12,
+            "text-anchor": "top",
+          },
+          paint: {
+            "text-color": "#000000",
+          },
+          minzoom: 1,
+          maxzoom: 8,
+        });
+
+        map.addLayer({
+          id: "layer10-layer",
+          type: "symbol",
+          source: "layer10-source",
+          layout: {
+            "text-field": ["get", "label"],
+            "text-size": 12,
+            "text-anchor": "top",
+          },
+          paint: {
+            "text-color": "#000000",
+          },
+          minzoom: 1,
+          maxzoom: 8,
+        });
+
+        map.addLayer({
+          id: "layer11-layer",
+          type: "symbol",
+          source: "layer11-source",
+          layout: {
+            "text-field": ["get", "label"],
+            "text-size": 12,
+            "text-anchor": "top",
+          },
+          paint: {
+            "text-color": "#000000",
+          },
+          minzoom: 1,
+          maxzoom: 5,
         });
       });
 
@@ -250,14 +396,14 @@
 
       let pointID = null;
 
-      map.on("mousemove", "files-points-layer", (event) => {
+      map.on("mousemove", "final-points-layer", (event) => {
         map.getCanvas().style.cursor = "pointer";
 
         if (event.features.length === 0) return;
 
         if (pointID) {
           map.removeFeatureState({
-            source: "files-source",
+            source: "final-layer-source",
             id: pointID,
           });
         }
@@ -265,7 +411,7 @@
         pointID = event.features[0].id;
 
         map.setFeatureState(
-          { source: "files-source", id: pointID },
+          { source: "final-layer-source", id: pointID },
           { hover: true }
         );
 
@@ -276,7 +422,7 @@
       function resetHoverState() {
         if (pointID) {
           map.setFeatureState(
-            { source: "files-source", id: pointID },
+            { source: "final-layer-source", id: pointID },
             { hover: false }
           );
         }
@@ -286,11 +432,11 @@
         map.getCanvas().style.cursor = "";
       }
 
-      map.on("mouseleave", "files-points-layer", function () {
+      map.on("mouseleave", "final-points-layer", function () {
         resetHoverState();
       });
 
-      map.on("mouseleave", "files-labels-layer", function () {
+      map.on("mouseleave", "finals-labels-layer", function () {
         resetHoverState();
       });
       /*
@@ -299,12 +445,12 @@
        * =====================================================================================
        */
 
-      map.on("click", "files-points-layer", function (e) {
+      map.on("click", "final-points-layer", function (e) {
         const coordinates = e.features[0].geometry.coordinates.slice();
         const label = e.features[0].properties.label;
 
         map.flyTo({
-          center: e.features[0].geometry.coordinates
+          center: e.features[0].geometry.coordinates,
         });
 
         new mapboxgl.Popup()

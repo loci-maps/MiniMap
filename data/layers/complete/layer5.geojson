@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Abstractions.",
+                "color": "rgb(124.53973644239896, 116.72163522939105, 145.58488660942248)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6283037888341909,
+                    -0.016655973996463916
+                ]
+            }
+        }
+    ]
+}

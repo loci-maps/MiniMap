@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Music arrangement.",
+                "color": "rgb(105.05040215241183, 153.65032489416822, 158.8669739176297)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5073676703494425,
+                    -0.32441541090655535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Note-taking.",
+                "color": "rgb(119.62182907432145, 107.34833098006158, 237.61816873789593)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8356981893669777,
+                    0.2743776708505075
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Music genres",
+                "color": "rgb(104.02530314910675, 141.70147138859934, 164.57429543714855)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.584107840681669,
+                    -0.22834795066526525
+                ]
+            }
+        }
+    ]
+}

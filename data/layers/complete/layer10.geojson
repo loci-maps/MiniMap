@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Technology education.",
+                "color": "rgb(154.16409406634972, 118.22157930691328, 107.94687856540294)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7102465760538331,
+                    0.4043643890270461
+                ]
+            }
+        }
+    ]
+}

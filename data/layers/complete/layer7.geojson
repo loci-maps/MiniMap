@@ -1,0 +1,369 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "None.",
+                "color": "rgb(112.49716149744188, 120.31621084666392, 140.82327546648634)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6995496601135462,
+                    0.0785283284129297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "vertebrates",
+                "color": "rgb(141.2068564932774, 235.93399185825538, 171.38372854201143)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8127106219613595,
+                    -0.17255961561377264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "vertebrates",
+                "color": "rgb(141.18311315375664, 235.87700463359093, 171.32030142339474)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8127011558397594,
+                    -0.17271659890489507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Commonality: Notes.",
+                "color": "rgb(143.5524819628298, 126.29476730437577, 195.11280262908969)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6507516176434744,
+                    0.2778897616766486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Music shows",
+                "color": "rgb(126.26746009760738, 130.16156339863386, 190.77474423952862)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5662899622097439,
+                    -0.15485027543923172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "N/A",
+                "color": "rgb(124.65269855773127, 142.39514021562715, 121.11171608772624)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7158061378273738,
+                    0.021290170885855796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Waffles, chocolate.",
+                "color": "rgb(232.00661152073795, 78.31619642338005, 120.73722841706527)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.019969912588811346,
+                    -0.7445383183637045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Historical perspective",
+                "color": "rgb(139.27485830075793, 147.24798576283155, 142.07594851178783)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.019164221575971474,
+                    0.12328170364313787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Music genre",
+                "color": "rgb(101.5314026502357, 137.14157235791308, 155.595589180045)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.23288078048549565,
+                    -0.40248994931019794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Language conversion.",
+                "color": "rgb(136.5267896907753, 116.09577718664121, 117.77350992785288)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5882395498704653,
+                    0.06572079226007754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Piano music.",
+                "color": "rgb(94.12986204817432, 113.95648160329051, 145.18270609470005)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17352822613109745,
+                    -0.010364068091093429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Logic and Reasoning.",
+                "color": "rgb(93.99118393639503, 83.64572408912281, 120.9692651888686)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4864816852934725,
+                    0.1768994386190408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "File format.",
+                "color": "rgb(252.1912818686562, 86.28867569077559, 120.61592575670902)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0681080262237361,
+                    -0.7421100471543576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Text analysis",
+                "color": "rgb(179.38017142425923, 157.05375998221967, 36.479685780529735)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5384853277745182,
+                    0.7717224610761543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Note-taking methods.",
+                "color": "rgb(125.75869716712734, 151.581842952145, 142.8054696139533)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.42489882320917616,
+                    -0.05110706222972661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Jazz music.",
+                "color": "rgb(121.49551269480922, 118.19187830190967, 139.99608212339436)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5282271130174435,
+                    0.05716508563421064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Programming language",
+                "color": "rgb(62.707614844305176, 81.02470340560042, 92.58030787348446)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21319307257190906,
+                    0.1804996511680624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Reading.",
+                "color": "rgb(180.12667290646476, 157.0731479800964, 73.65446019845017)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.462303963945067,
+                    0.38310657401592263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Creativity.",
+                "color": "rgb(116.67181514294381, 126.89470381406682, 137.8421919294949)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.03198759644003993,
+                    -0.10061920728885712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Imagery notes.",
+                "color": "rgb(144.82655675005174, 117.41540003334089, 187.23229291712852)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8417843847546953,
+                    0.4162557123853338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "The commonality between \"Consubstantiel.md\" and \"Creativity skills\" is \"Conceptual creativity.\"",
+                "color": "rgb(239.50735526216658, 80.17856436464658, 106.37270403668586)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.009041972060244168,
+                    -0.7271712566741002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Noise control.",
+                "color": "rgb(132.71716875825888, 158.1670068526094, 138.5998757269995)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.21059901711300325,
+                    -0.09933196989843011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Practical education.",
+                "color": "rgb(165.01359811116632, 143.6347437663092, 52.66450324310857)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4230549999938816,
+                    0.6796103292903328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Lighting solution.",
+                "color": "rgb(221.72226509683355, 87.84538061067639, 139.45371402327916)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0644176788366522,
+                    -0.6732251696853742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "None.",
+                "color": "rgb(115.64558495574785, 117.47748325302867, 137.71524106409544)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2982828699373582,
+                    0.03303567249842081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Temperature regulation",
+                "color": "rgb(53.37766207658634, 92.7638403905352, 78.70481344160476)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1857832175537586,
+                    -0.05277055895810001
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "None.",
+                "color": "rgb(125.19312310351042, 146.19945767220642, 121.32541214909824)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7486362777534751,
+                    0.046808595637896085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "French literature.",
+                "color": "rgb(131.99810899029538, 129.00932504703997, 106.44375637313277)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.767963746795085,
+                    0.0423984685980249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Book collection.",
+                "color": "rgb(110.88678099958426, 149.8639033589019, 120.97384851742501)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.18716412709335956,
+                    0.11304188805175466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Factories.",
+                "color": "rgb(241.91877083864185, 70.69223662391785, 128.5306611600617)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03802075947963374,
+                    -0.7416426586147891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Note-taking tools.",
+                "color": "rgb(103.86808283276994, 142.92580176552633, 163.8696875769046)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6527641858448823,
+                    -0.2043172017135881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Efficiency optimization",
+                "color": "rgb(118.57046551231326, 132.51652309926175, 128.5157931654741)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.24667834326198926,
+                    0.08121272921183713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Financial management",
+                "color": "rgb(118.57493665307292, 132.53604718573263, 128.4866000784589)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2429158391710507,
+                    0.08020230332943862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Note-taking method",
+                "color": "rgb(143.02122529407333, 114.06687398303427, 218.94727744837186)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7673288442465471,
+                    0.5380744124240533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Art techniques.",
+                "color": "rgb(125.2875992021916, 117.44583481601184, 145.69684275667473)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6389023564360259,
+                    3.472742018545416e-05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Communication technology.",
+                "color": "rgb(68.46812489678067, 89.09683294917349, 101.4542636579989)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.20891323984983035,
+                    -0.1741956536635809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "French philosophy.",
+                "color": "rgb(188.93051282030322, 131.7499185184709, 110.8811370196182)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2406211760761064,
+                    0.11648824097182778
+                ]
+            }
+        }
+    ]
+}

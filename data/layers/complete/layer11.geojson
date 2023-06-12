@@ -1,0 +1,453 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Creativity.",
+                "color": "rgb(119.79302268815307, 102.85620615184956, 196.74030368120964)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7996537263866703,
+                    0.259785679036506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Innovation.",
+                "color": "rgb(122.61495562478171, 120.40513799873654, 164.89239525461335)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7398632088790034,
+                    0.11474544440679421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Note-taking techniques",
+                "color": "rgb(112.03223253888768, 99.50234621153975, 209.80619996401256)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6383297792233993,
+                    0.5575766594114298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Innovation.",
+                "color": "rgb(145.55560490406117, 121.64445220536862, 131.16455416169495)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2767888558431323,
+                    0.05839369204492031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Limitless innovation.",
+                "color": "rgb(147.16701340936748, 134.88022497786778, 121.15030571188353)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3574106877011767,
+                    0.16711395237400484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Ideas comparison.",
+                "color": "rgb(170.57116520700123, 110.34549296083023, 177.30077984451833)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7000872740039884,
+                    0.4567275228631046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Audio classification.",
+                "color": "rgb(121.74471096105937, 127.80471822199483, 126.5303536613571)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.37170311050321214,
+                    -0.01316758931879057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Islands.",
+                "color": "rgb(140.04481340992788, 204.86602336338868, 119.97076737563282)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.21770551118151515,
+                    -0.7189754050971506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Sound analysis.",
+                "color": "rgb(148.7644134730989, 129.45710518761183, 113.8376063054457)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.33599226944612787,
+                    -0.06506925360692786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Analysis",
+                "color": "rgb(153.92603230537782, 139.75624305181472, 105.69456423167495)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3739040246374857,
+                    0.1322097652559008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "No commonality.",
+                "color": "rgb(95.09895797338825, 144.7878402522859, 102.86710568924556)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3594874511168722,
+                    -0.33881538550548373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "No commonality.",
+                "color": "rgb(104.06127142592685, 160.8944314636407, 111.56794864894083)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1375907249094715,
+                    -0.3162719647150475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Reality technology",
+                "color": "rgb(70.67263065597976, 141.58889251628733, 49.80670588184924)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5724667615481032,
+                    -0.2998858905371092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "None found.",
+                "color": "rgb(81.14497454563264, 136.08446082921265, 139.13006104281362)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.25755331249851,
+                    -0.12781338157583833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "N/A",
+                "color": "rgb(66.4626638552664, 119.82707941885306, 129.79248468202172)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.42219401328075024,
+                    -0.1893297362136539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Roman Empire decline.",
+                "color": "rgb(99.4478798233667, 130.7473869721595, 131.15628382384443)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.09583286814841566,
+                    -0.11849932863970881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Editing software history.",
+                "color": "rgb(95.65489974943057, 139.68582365142032, 142.58493862783234)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.32639822531035595,
+                    -0.1820318470739977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Technology advancement.",
+                "color": "rgb(69.60377612022144, 125.86884257510879, 95.11729807925735)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.519670120653812,
+                    -0.32221216730955116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Innovation progress.",
+                "color": "rgb(120.08747066361133, 118.10716776796951, 136.20903896188784)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6098786973289002,
+                    0.06725767777677671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Social psychology",
+                "color": "rgb(129.43404094933504, 134.72527695719825, 118.81205118837332)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5593831564417354,
+                    -0.00903448767624284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Human behavior.",
+                "color": "rgb(132.24017663494632, 132.44995051579411, 156.9502393842812)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6171053844334036,
+                    0.1408866743811304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Psychology.",
+                "color": "rgb(133.03245335766024, 147.70396634107306, 134.51801910315265)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4935567173511828,
+                    0.22524735565356568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Data collection.",
+                "color": "rgb(97.48644408667072, 117.4893065351547, 95.23439881993484)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6879410602774193,
+                    -0.06718581105713917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Illumination",
+                "color": "rgb(235.2977772187919, 85.98532849045577, 129.30770470295764)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.007655540906360392,
+                    -0.7122574487188191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Simulation technology",
+                "color": "rgb(87.18047091652812, 126.13111450299638, 92.42828609065108)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6695144631832874,
+                    -0.19847623491108574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Virtual reality.",
+                "color": "rgb(113.612642163228, 165.49856893319253, 106.19952673314195)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4436099871824013,
+                    -0.4587258200041182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "simulated worlds",
+                "color": "rgb(113.96207854870181, 145.59347288044, 91.50998910544362)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5478574450629956,
+                    -0.34988785686253115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Simulation environments",
+                "color": "rgb(111.62523889560461, 146.10064569762565, 125.59006504707372)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.43081981750794907,
+                    -0.4441611705015467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Exploration experience.",
+                "color": "rgb(131.693577024884, 218.33774813850272, 133.88429042725545)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.40874604809327325,
+                    -0.5642580636381537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Hardware simulation.",
+                "color": "rgb(99.98084974081937, 132.63628858659746, 102.7069072444292)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4249273946781159,
+                    -0.39853165238211696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Simulation technology.",
+                "color": "rgb(115.83721338285169, 175.4870183625501, 118.29559883584233)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4168367213856946,
+                    -0.4813948580101353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "None.",
+                "color": "rgb(132.009758218916, 150.89104248926932, 114.94147442049334)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11199387429083438,
+                    -0.32947629050026145
+                ]
+            }
+        }
+    ]
+}

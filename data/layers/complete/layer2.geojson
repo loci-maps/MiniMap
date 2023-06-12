@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Reading abilities.",
+                "color": "rgb(170.16965659185232, 168.26197619670995, 55.676252246978)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.48317677430106776,
+                    0.6904562161358155
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Perception bias.",
+                "color": "rgb(129.07514680158607, 128.4879565469139, 108.55168550623284)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2984413049678481,
+                    -0.05905120356863886
+                ]
+            }
+        }
+    ]
+}

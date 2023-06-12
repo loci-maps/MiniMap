@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Abstraction skills",
+                "color": "rgb(152.51161649553433, 99.94498866204825, 191.98541745686973)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8127150385594285,
+                    0.47612155555362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Learning/Knowledge",
+                "color": "rgb(156.1370252970146, 124.71006490336396, 152.83407033734477)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.26019778752297174,
+                    0.11522012329830898
+                ]
+            }
+        }
+    ]
+}

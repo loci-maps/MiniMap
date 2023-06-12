@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Property ownership",
+                "color": "rgb(105.0460118910427, 116.64080787506808, 97.92819673147285)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.34037271086277,
+                    0.033650152008946374
+                ]
+            }
+        }
+    ]
+}
