@@ -1,0 +1,1187 @@
+0 Create a programming language.md
+1 Programming languages.md
+2 Inspectional reading.md
+3 Reading philosophy.md
+4 Reading imaginary.md
+5 Reading technics should differ depending on book type.md
+6 Elementary reading.md
+7 Re-reading books.md
+8 Evaluate a book.md
+9 Syntopical reading.md
+10 202106242157 There's various level of active reading.md
+11 Reading science and mathematics.md
+12 Speed reading.md
+13 202106122307 Reading with a pen in hand is a way to test our understanding.md
+14 Reading history.md
+15 Reading biographies.md
+16 Reading digests.md
+17 Reading news.md
+18 Analytical reading.md
+19 Augmented reality.md
+20 AR devices.md
+21 Mixed reality.md
+22 No-code tools for AR.md
+23 Video.md
+24 Premiere Pro.md
+25 Make great videos.md
+26 Hyperinflation.md
+27 Printing more money could create inflation.md
+28 Music theory.md
+29 One drop pattern.md
+30 Circle of fifth.md
+31 Harmonic Minor.md
+32 Contrapuntal music (in film).md
+33 Chords progressions.md
+34 Freemium.md
+35 Writing on Medium.md
+36 Newsletters.md
+37 Somatosensory.md
+38 Working memory.md
+39 Hardware.md
+40 DSP (Digital Signal Processor).md
+41 ALU (Arithmetic Logic Unit).md
+42 Raspberry Pi.md
+43 ARM (Advanced RISC Machines).md
+44 RAM (Random-Access Memory).md
+45 Places.md
+46 Third places.md
+47 State controlled saving plans.md
+48 Stock markets.md
+49 Real estate.md
+50 Old books.md
+51 Cryptocurrencies.md
+52 Exchange Traded Funds (ETF).md
+53 Saving habit.md
+54 Emergency fund.md
+55 My investment strategy.md
+56 Personal finances.md
+57 AudioSet dataset.md
+58 Sound classification.md
+59 Mel Spectogram.md
+60 Welcome in my mind 🧠.md
+61 Soundproofing.md
+62 The zettelkasten method and how to take smart notes.md
+63 Fleeting notes to capture thoughts.md
+64 Litterature note to quote and reference content.md
+65 Open-closed principle makes Zettelkasten closer to its original design.md
+66 Litterature note to quote and reference content.md
+67 Writing is the only thing that count.md
+68 Permanent notes to link and develop.md
+69 202107062037 Critics need rhetoric.md
+70 202107071942 Books never solve practical problems, action does.md
+71 202106122210 Expert can rely on their intuition.md
+72 202107032023 Don't be an expert, make unexpected connections instead.md
+73 202106201717 Avoid immobility by starting projects as drafts.md
+74 202107062101 Don't read with a dictionnary.md
+75 202106131144 Learning has multiple phases.md
+76 202107061345 Interpretative reading.md
+77 202106152233 Thinking about solutions to previous problem helps finding creative solutions.md
+78 202107071935 The two types of practical books.md
+79 202109222330 Is Thus Spake Zarathoustra has any historical fundements?.md
+80 202106172137 Writing a lot trigger the large number theory on finding great topics.md
+81 202106122212 Better taking note by hand.md
+82 202107062109 Don't use extrinsic aid synchronously.md
+83 202107062046 Book completeness as an indiscutable argument.md
+84 202106270022 Teaching require empathy.md
+85 202106290039 Don't stop on unknown references when reading.md
+86 202106270039 Best collectors are artists.md
+87 202107072126 Imaginary litterature is harder to read.md
+88 202106122322 Remembering is bringing back memory to conscious mind.md
+89 202106122339 Don't worry about slipbox's completeness.md
+90 202107032032 Focus is for executing, openess is for creativity.md
+91 202106131132 Litterature notes helps comparing different authors ideas.md
+92 202106152303 Laxism is a threat to creativity.md
+93 202107272301 Our mental growth don't have limit.md
+94 ~ What are litterature notes?.md
+95 202106122307 Reading with a pen in hand is a way to test our understanding.md
+96 202106122336 Understanding improve strenght retrieval.md
+97 202106270036 Don't search for good taste, search for pleasant things.md
+98 202106122329 Multiplying notes connections free us from unexpected cues.md
+99 202106270049 Collectors should have an antilibrary.md
+100 202106201723 Learning shouldn't be linear but graph oriented.md
+101 202107072122 Be careful about practical book's propaganda.md
+102 202107071931 Analytical reading apply on non-fiction.md
+103 202106131120 Index notes like a writter.md
+104 202106131155 Paradigm shifts comes from little steps toward a direction.md
+105 202106152243 Creativity and thinking better flourish under restrictions.md
+106 202106122248 Storing notes in our slipbox is investing in ourself.md
+107 202106122343 The slipbox is a tool to think in, not about.md
+108 202106152240 Solutions are just trade offs and can't be perfect.md
+109 202106270032 Aided and unaided learning.md
+110 202107032150 Questioning a book to read more actively.md
+111 202107061349 Criticizing a book is a reader obligation toward the author.md
+112 202107052315 Grasp author's key sentences and arguments in a book.md
+113 202106122315 Reading without writing isn't learning.md
+114 202106270021 The three kinds of reading.md
+115 202106131114 Note connections helps find patterns accross non related subjects.md
+116 202107052256 Find the important keywords in a book help analysis.md
+117 202106152224 Finding creative and functional solutions require abstraction.md
+118 202107062058 Read with exigence.md
+119 202106152315 Zettelkasten make the act of choosing topic seamless.md
+120 202106122321 Forgetting is active inhibition.md
+121 202106122246 Smart notes are about thinking beyound actual context.md
+122 202106172158 Finding unheard ideas require open-mindness.md
+123 202106152227 Knowing failures helps as much as knowing successes.md
+124 202107272232 Zettelkasten and digital gardening is syntopical writing.md
+125 202106242157 There's various level of active reading.md
+126 202106122221 The slipbox should be agnostic.md
+127 202106122244 Reformulating ideas enlarge our set of thinking tools.md
+128 202107272303 Geniuses characteristics.md
+129 Transistors.md
+130 Electronics.md
+131 Logic gates.md
+132 Wiring audio cables.md
+133 Nixie tubes.md
+134 Universaly complete set.md
+135 Removable soundproofed studios.md
+136 Arranging studios in a building.md
+137 Preamp.md
+138 Compressor.md
+139 Monitors.md
+140 Distortion.md
+141 Microphones.md
+142 Audio interface.md
+143 Top of the line studio gear configurations.md
+144 Books and Binders.md
+145 A brief computer history.md
+146 SOLID.md
+147 Turing completeness.md
+148 Oriented Object Programming.md
+149 Memex.md
+150 202106122320 Differences between Slipbox and Second-brain?.md
+151 202109222326 Thoughts fragment.md
+152 202106152307 Restrict time on tasks to focus on the real value.md
+153 202107061403 Memex, second brain, PKM, digital garden, what's the differences?.md
+154 202106131148 Practice jazz improvisation by following learning phase principle.md
+155 202106152301 Binary code has the best restriction-output ratio.md
+156 202106152252 Imposing restrictions to fight the blank page syndrome.md
+157 202106122255 Empty notes are better than no notes at all.md
+158 202106172218 Slipbox can make working on multiple manuscrits at the same time seamless.md
+159 202109181532 Domestic Cozy.md
+160 202106172211 Focus isn't what we do but what we don't do.md
+161 202107122234 Quadrivium and Trivium.md
+162 How To Take Smart Notes - Sönke Ahrens.md
+163 202106122301 Viewing notes toward the Golden Circle framework helps stating on the relevance of ideas.md
+164 202106122255 Empty notes are better than no notes at all.md
+165 Axioms.md
+166 Normal distribution.md
+167 Mixing fundings strategy.md
+168 Seed round.md
+169 Pitch deck.md
+170 Fundraising.md
+171 VC lists.md
+172 Pitching a VC - SaaS case.md
+173 Making underwater videos.md
+174 Gas blending.md
+175 Hyperoxic trimix.md
+176 Normoxic trimix.md
+177 Partial pressure.md
+178 Nitrox.md
+179 Hypoxic trimix.md
+180 Trimix.md
+181 Hyperoxia.md
+182 Nitrogen narcosis.md
+183 Decompression sickness.md
+184 Scuba diving.md
+185 Redbone - Childish Gambino.md
+186 Rapture - Koffee.md
+187 Giant Steps - John Coltrane.md
+188 Armando's Rhumba - Chick Corea.md
+189 ~ Full list of the song I learned - Map of content.md
+190 Nemesis - Aaron Parks.md
+191 All the things you are - Jerome Kern.md
+192 Running Away - Bob Marley and the Wailers.md
+193 Crazy Baldhead - Bob Marley and the Wailers.md
+194 Voyage Autour Du Monde (Tome I) - Dumont D'urville.md
+195 Plongées Autour Du Monde - Jean Bernard Carillet, Olivier Oudon.md
+196 Encyclopédie Progressive Ou, Abrégé Des Sciences, Des Arts Et Des Connaissances Utiles (Tome II) - Mlle M. Forgame.md
+197 Les Voyages D'Ulysse - Mythologie.md
+198 Rap Ta France - José Louis Bocquet, Philippe Pierre Adolphe.md
+199 Dilemmes De Prisonniers Et Stratégies Dominantes : La Théorie Des Jeux #7 - Fernando Corbalán.md
+200 Vie Privée De Louis Xv   Tome Premier - Unknown.md
+201 Tout Alice - Lewis Carroll.md
+202 The Smart Thinking Book - Kevin Duncan .md
+203 Devenez Un Grand Orateur Ted   Les 9 Secrets Des Prises De Paroles Les Plus Brillantes - Carmine Gallo.md
+204 Théâtre Complet Tom 2 - William Shakespeare.md
+205 La Lecture Rapide - Tony Buzan.md
+206 La Vie Secrète Des Nombres : Les Bizarreries Des Mathématiques #27 - Joaquín Navarro.md
+207 Construction 4.0 - Karim N’essaie, Christian Grellier, Edward Woods .md
+208 Tout Le Monde N'a Pas Eu La Chance De Rater Ses études - Olivier Roland.md
+209 Sur Le Rêve - Sigmund Freud.md
+210 Le Royaume Des Animaux 21 : Python Rous - Maurice Burton, Robert Burton .md
+211 Les 7 Habitudes De Ceux Qui Réalisent Tout Ce Qu'ils Entreprennent - Stephen R. Covey.md
+212 Les 7 Habitudes De Ceux Qui Réalisent Tout Ce Qu'ils Entreprennent - Stephen R. Covey.md
+213 Business   Les Grandes Idées Tout Simplement  - Various.md
+214 Le Mythe De La Singularité, Faut Il Craindre L’intelligence Artificielle ? - Jean Gabriel Ganascia.md
+215 Voyages Extraordinaires : Les Indes Noires  - Jules Verne .md
+216 Les Oracles De Nostradamus : Tome 2 - Nostradamus.md
+217 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+218 Dictionnaire 1965 Vol 3 : No Z - Augé, Gillon, Holier Larousse, Moreau.md
+219 Making Music - 74 Creative Strategies For Electronic Music Producers - Dennis De Santis.md
+220 Le Royaume Des Animaux 11 : Grand Herm - Maurice Burton, Robert Burton .md
+221 L'art De Compter : Combinatoire Et énumération #30 - Juanjo Rué.md
+222 Exercices De Piano Pour Les Nuls - David Pearl, Marc Rozenbaum.md
+223 Thérèse Raquin - émile Zola.md
+224 Trap, Rap, Drogue, Argent, Survie - Guillaume Heuguet & Etienne Menu.md
+225 Encyclopédie Progressive Ou, Abrégé Des Sciences, Des Arts Et Des Connaissances Utiles (Tome I) - Mlle M. Forgame.md
+226 Exploration Sans Limite : L'infini En Mathématique #16 - Enrique Gracían.md
+227 Jimi Hendrix Electric Life : Biographie D'une Légende - Vincent Brunner.md
+228 Oeuvres Complètes : Théâtre - Guy De Maupassant.md
+229 Le Royaume Des Animaux 22 : Rous Sarce - Maurice Burton, Robert Burton .md
+230 Computer Science Distilled  - Wladston Ferreira Filho.md
+231 Le Monde Du Jazz - Jim Godbolt.md
+232 La Machine De Turing  - Alan Turing, Jean Yves Girard .md
+233 Histoire Générale Et Particulière - Comte De Bufon.md
+234 La Musique Des Sphères : Astronomie Et Mathématique #25 - Maria Ros.md
+235 1791, La Dernière Année De Mozart - H.C. Robbins Landon.md
+236 Missel Des Béatitudes - Unknown.md
+237 Petits Et Grands Musées De Paris - Valérie A Appert.md
+238 De L'allemagne - Mme De Staël.md
+239 La Ruée Des Licornes - Nicolas Hazard, Anne Rodier.md
+240 Comment être Heureux - Arthur Schopenhauer.md
+241 ~ My library - MoC.md
+242 La Logique Ou L'art De Penser - Unknown.md
+243 The relative and absolute encyclopedia of knowledge - Bernard Weber.md
+244 Le Royaume Des Animaux 23 : Sardi Synbra - Maurice Burton, Robert Burton .md
+245 Dictionnaire Des Auteurs Français - Unknown.md
+246 Dictionnaire 1965 Vol.1 : A Em - Augé, Gillon, Holier Larousse, Moreau.md
+247 La Musique Des Origines à Nos Jours - Norbert Dufourcq.md
+248 L'énigme De Fermat : Trois Siècles De Défi Mathématique #8 - Albert Violant Holz.md
+249 Intempéries - R. Lehmann.md
+250 Germinal - Emile Zola.md
+251 La Partition Intérieure - Jacques Siron.md
+252 Oeuvres Complètes : Chroniques Inédites I - Guy De Maupassant.md
+253 How To Take Smart Notes - Sönke Ahrens.md
+254 De La Lyre D'orphée à La Musique électronique - Jacqueline Jamin.md
+255 Le Mystère Des Dieux - Bernard Werber.md
+256 La Certitude Absolue Et Les Autres Illustions : Les Secrets De La Statistique #26 - Pere Grima.md
+257 Traité Complet D’harmonie, Théorie Et Pratique  - Emile Durand.md
+258 Au Capucin Gourmand - Henri Béraud.md
+259 Jules Verne, Hetzel Et Les Cartonnages Illustrés - Philippe Jauzac.md
+260 Le Royaume Des Animaux 6 : Coul Des - Maurice Burton, Robert Burton .md
+261 La Crise économique De 1929, Anatomie D'une Catastrophe Financière - J.K. Galbraith.md
+262 Le Royaume Des Animaux 16 : Migra Néoto - Maurice Burton, Robert Burton .md
+263 Chopin, Vie Et Oeuvre - Sylvie Oussenko.md
+264 L'art Poétique - Nicolas Boileau.md
+265 Le Royaume Des Animaux 3 : Buc Chal - Maurice Burton, Robert Burton .md
+266 Le Royaume Des Animaux 19 : Phalan Podar - Maurice Burton, Robert Burton .md
+267 Sur Le Bout De La Langue   Le Plaisir Du Mot Juste - Bertrand Périer.md
+268 Animal Farm - Georges Orwell.md
+269 Le Royaume Des Animaux 18 : Ours Phalan - Maurice Burton, Robert Burton .md
+270 Le Cid, Horace, Cinna, Polyeucte - Corneille.md
+271 Habiter Demain - Bouygues Construction.md
+272 Cabinet Of Wonders - Viktor Wynd's.md
+273 The Art of Controversy - Arthur Schopenhauer.md
+274 Le Royaume Des Animaux 15 : Maca Mésite - Maurice Burton, Robert Burton .md
+275 Petit Cours D'autodéfense Intellectuelle - Normand Baillargeon.md
+276 Musiques électroniques - Guillaume Kosmicki.md
+277 Les Frères Karamazov I - Dostoïevski.md
+278 Anyone Can Become An Entrepreneur - Oussama Ammar.md
+279 Human Machine  - Jean De La Rochebrochard.md
+280 Xavier Niel : La Voie Du Pirate  - Solveig Godluck, Emmanuel Paquette .md
+281 Le Royaume Des Animaux 13 : Ichleu Lépis - Maurice Burton, Robert Burton .md
+282 Essentialism - Greg Mc Keown.md
+283 La Quatrième Dimension : Notre Univers Est Il L'ombre D'un Autre ? #5 - Raúl Ibáñez.md
+284 The Art of Noise - Luigi Russolo.md
+285 La Planète Maathématique : Un Voyage Numérique Et Géométrique à Travers Les Monde #36 - Miquel Albertí.md
+286 Taschen's London - Agelika Taschen.md
+287 Journey to the center of the earth - Jules Verne.md
+288 Cours De Machines : Première Partie  - Haton De La Goupilliere .md
+289 Vingt Mille Lieues Sous Les Mers - Jules Verne.md
+290 L'harmonie Est Numérique : Musique Et Mathématiques #11 - Javier Arbonés, Pablo Milrud.md
+291 Oeuvres Complètes : La Main Gauche, L'inutile Beauté, Contes Divers, Fragments - Guy De Maupassaant.md
+292 Chroniques Du Règne De Charles Ix - Prosper Mérimée.md
+293 100 Personnages Clés De La Mythologie  - Malcolm Day.md
+294 Jusqu'à Ce Que L'algèbre Nous Sépare : La Théorie Des Groupes Et Ses Applications #31 - Janvier Fresán.md
+295 Andromaques, Britannicus, Iphigénie, Phèdre - Jean Racine.md
+296 Jimi Hendrix Electric Life : Biographie D'une Légende - Vincent Brunner.md
+297 La Poésie Des Nombres : Le Rôle De La Beauté En Mathématiques #23 - Antonio J. Durán.md
+298 Le Royaume Des Animaux 5 : Cig Coul - Maurice Burton, Robert Burton .md
+299 Tombeau De John Coltrane - Xavier Deverat.md
+300 Javascript And The Browser - Marijn Haverbeke.md
+301 Musique Passion, Musique Galère Ou Les Déboires D'un Artiste - Daniel Theault.md
+302 La Comédie Des Animaux  - Joseph Méry.md
+303 Théâtre Complet Tom 3 - William Shakespeare.md
+304 Libérez Votre Cerveau ! - Idriss Aberkane.md
+305 James Brown - Philippe Manœuvre .md
+306 Le Royaume Des Animaux 10 : Four Grand - Maurice Burton, Robert Burton .md
+307 L'insurgé - Jules Vallès.md
+308 European Litterature In Translaation - Jarndyce.md
+309 Musicophilia   La Musique, Le Cerveau Et Nous - Olivier Sacks.md
+310 Les Innovateurs - Walter Isaacson.md
+311 Le Cosmos Et Le Lotus - Trinh Xuan Thuan.md
+312 Le Royaume Des Animaux 3 : Buc Chal - Maurice Burton, Robert Burton .md
+313 Factfulness - Hans Rosling.md
+314 1001 Recettes : Cuisine Végétarienne - Unknown.md
+315 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+316 Tools Of Titans - Tim Ferris.md
+317 Le Livre Du Dessin Et De La Peinture - Various.md
+318 Oeuvres Complètes : La Petite Roque, Mont Oriol - Guy De Maupassant.md
+319 L'éveil Musical Une Pédagogie évolutive  - Cristina Agosti Gherban.md
+320 Le Royaume Des Animaux 9 : Fel Four - Maurice Burton, Robert Burton .md
+321 Ruby, Les Fondamentaux Du Language - Alexandre Brillant.md
+322 Le Meilleur Des Mondes - Aldous Huxley.md
+323 Nombres Remarquables : Le 0, Le 666 Et Autres étrangetés Numériques #18 - Lamberto García Del Cid.md
+324 Les Mathématiques De La Vie : Modèles Numériques Pour La Biologie Et L'écologie #38 - Rafael Lahoz Beltra.md
+325 Intelligence, Machines Et Mathématiques - L'intelligence Artificielle Et Ses Enjeux n°29 - Ignasi Belda.md
+326 Terra Data, Qu'allons Nous Faire Des Données Numériques ? - Serge Abiteboul, Valérie Peugeot.md
+327 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+328 Les Nombres Premiers : Un Long Chemin Vers L'infini #3 - Enrique Gracían.md
+329 Voyage Autour Du Monde (Tome II) - Dumont D'urville.md
+330 Huiles Essentielles Mode D'emploi - Sylvie Hampikian.md
+331 Business Blockchain Pratiques Et Applications Professionnelles  - William Mougayar.md
+332 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+333 A Promised Land - Barack Obama.md
+334 Tout Ce Que Vous Avez Appris Et Oublié En Math - Jan Van De Craats Et Rob Bosch.md
+335 Cours De Machines : Deuxième Partie  - Haton De La Goupilliere.md
+336 Le Royaume Des Animaux 1 : Abe Ase - Maurice Burton, Robert Burton .md
+337 Tout Sur L'économie (Ou Presque) - Gilles Mitteau.md
+338 Les Liaisons Dangereuses - Choderlos De Laclos.md
+339 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+340 Electrochoc - Laurent Garnier, David Brun Lambert.md
+341 Traité D'économie Hérétique   En Finir Avec Le Discours Dominant - Thomas Porcher.md
+342 Naturgeschichte Geologie Mineralreich Paläontologie - Dr. Friedrich Rolle.md
+343 The Family Diaries - Alice Zagury.md
+344 La Grande Histoire Du Monde - François Reynaert.md
+345 à Toi Qui N'est Pas Encore Né(E) - Albert Jacquard.md
+346 L'art De La Victoire - Phil Knight.md
+347 Les Avancées De L’intelligence Artificielle  - Olivier Ezratti.md
+348 Le Pouvoir De Convaincre - Harvard Business Review.md
+349 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+350 Huiles Essentielles Mode D'emploi - Sylvie Hampikian.md
+351 How to Win Friends and Influence People - Dale Carnegie.md
+352 Le Club Des Mathématiciens : Les Congrès Internationaux #35 - Guillermo P. Curbera.md
+353 Considérations Sur Les Causes De La Grandeur Des Romains Et De Leur Décadence - Montesquieu, Buffon.md
+354 Les Mathématiques Dans L'économie : Les Chiffres Et Leur Sens #39 - Lluís Artal, Josep Sales.md
+355 Banque Obc - Odier Bungener Courvoisier.md
+356 L'île Au Trésor - R.L Stevenson.md
+357 Jules Verne, Le Musée Weissenberg - Boisgirard Antonini.md
+358 A Promised Land - Barack Obama.md
+359 Unlimited Power - Tony Robbins.md
+360 Le Rêve De La Carte Parfaite : Cartographie Et Mathématique #22 - Fernando Corbalán.md
+361 Théorie Mathématiques De L’électricité  - J. Bertrand .md
+362 Empty Book - No Author.md
+363 Le Royaume Des Animaux 26 : Zancle Zygène - Maurice Burton, Robert Burton .md
+364 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+365 L'équation Du Nénuphar - Albert Jacquard.md
+366 20 Histoires Pour Comprendre L'économie Mondiale - Alessandro Giraudo.md
+367 L’économie Comme Vous Ne L’avez Jamais Vu  - Jan Schwochow, Thomas Ramge.md
+368 L’intelligence Artificielle, Pas Sans Elle !  - Ause Bernheim, Flora Bernheim .md
+369 Le Royaume Des Animaux 17 : Nèpe Ours - Maurice Burton, Robert Burton .md
+370 Le Pédagogie De Groupe Dans Les Cours D’instruments De Musique  - Jean Claude Lartigot.md
+371 Rock’n’roll   Le Discothèque Rock Idéale 2 - Philippe Manœuvre .md
+372 Lève Toi Et Code   Confessions D'un Hacker - Rabbin Des Bois.md
+373 Méditations Métaphysiques - René Descartes.md
+374 The Artist In The Machine - Arthur I. Miller.md
+375 Hackers Heroes Of The Computer Revolution - Steven Levy.md
+376 Messages - Various.md
+377 Les Sociétés Secrètes Et La Société Vol 1 - N. Deschamps.md
+378 Les Misérables 3 - Victor Hugo.md
+379 Les Frères Karamazov Ii - Dostoïevski.md
+380 The Jewish State - Theodor Herzl.md
+381 La Cousine Bette - Honoré De Balzac.md
+382 Panorama Des Mondes Et Astronomie Planétaire - M. Lecouturier.md
+383 Le Père Goriot - Honoré De Balzac.md
+384 Elon Musk - Ashlee Vance.md
+385 Voyages Extraordinaires : Le Chancelor Et Martin Paz  - Jules Verne.md
+386 Le Royaume Des Animaux 25 : Tribo Yéti - Maurice Burton, Robert Burton .md
+387 Courbes Périlleuses : Ellipses, Hyperboles Et Autres Merveilles Géométriques #24 - Fernando Corbalán.md
+388 Oeuvres Complètes : Boule De Suif, La Maison Tellier, Premiers Contes - Guy De Maupassaant.md
+389 Pensées Végétariennes - Voltaire.md
+390 How To Read A Book, The Classic Guide To Intelligent Reading - Mortimer J. Adler, Charles Van Doren.md
+391 Théâtre Complet Tom 1 - William Shakespeare.md
+392 Les Femmes Et Les Mathématiques : D'hypatie à Emmy Noether #33 - Joaquín Navarro.md
+393 Le Royaume Des Animaux 24 : Syng Tréma - Maurice Burton, Robert Burton .md
+394 Jimi Hendrix - Jane L. Hendrix.md
+395 Oeuvres Complètes : Miss Harriet, Les Soeurs Rondoli, Contes Divers - Guy De Maupassant.md
+396 A Promised Land - Barack Obama.md
+397 Le Jazz : Un Modèle Pour Apprendre - Charles Calamel.md
+398 Calcul Des Probalités  - J. Bertrand .md
+399 Les Admirables Secrets D'albert Le Grand - Albert Le Grand.md
+400 Quand Les Droites Deviennent Des "Courbes" : Les Géométries Non Euclidiennes #37 - Joan Gómez.md
+401 Contes Philosophiques - Honoré De Balzac.md
+402 The Way Up - Pat Metheny.md
+403 L'art Du Calme Intérieur - Eckhart Tolle.md
+404 Who, The A Method For Hiring - Geoff Smart, Randy Street.md
+405 Quand La Machine Apprends - La Révolution Des Neurones Artificiels Et De L'apprentissage Profond - Yann Le Cun.md
+406 Le Tartufe, Don Juan, Le Misanthrope - Molière.md
+407 Les Oracles De Nostradamus : Tome 1 - Nostradamus.md
+408 Dictionnaire 1965 Vol 2 : En Nn - Augé, Gillon, Holier Larousse, Moreau.md
+409 Code - The Hidden Language Of Computer Hardware And Software - Charles Petzhold.md
+410 Les Femmes Savantes - Molière.md
+411 Bizarre Books - Russel Ash, Brian Lake.md
+412 Codage Et Cryptographie : Mathématiciens, Espions Et Pirates Informatiques #2 - Joan Gómez.md
+413 La Navigation Sous Marine  - G L.Pesce.md
+414 Superintelligence Paths, Dangers And Strategies - Nick Bostrom.md
+415 Les Sociétés Secrètes Et La Société Vol 2 - N. Deschamps.md
+416 Du Boulier à La Révolution Numérique : Algorithmes Et Informatique #13 - Vicenç Torra.md
+417 La Musique Du Xxème Siècle - Benoît Berthou.md
+418 Le Rêve De La Raison : La Logique Mathématique Et Ses Paradoxes #19 - Javier Fresán.md
+419 Les Mesures Du Monde : Calendriers, Longueurs Et Mathématiques #34 - Iolanda Guevara Et Carles Puig.md
+420 La Cour Du Régent - Saint Simon.md
+421 Le Royaume Des Animaux 8 : Epe Fel - Maurice Burton, Robert Burton .md
+422 French Touch, Une épopée électro - Stéphane Jourdain.md
+423 Le Royaume Des Animaux 4 : Cha Cig - Maurice Burton, Robert Burton .md
+424 Candide - Voltaire.md
+425 La Conquête Du Hasard : La Théorie Des Probabilités #21 - Fernando Corbalán, Gerardo Sanz.md
+426 Traction : How Any Startup Can Achieve Explosive Customer Growth - Gabriel Weinberg, Justin Mares .md
+427 Ll’histoire Du Jazz - Mervyn Cooke.md
+428 Les Secrets Du Nombre π : Pourquoi La Quadrature Du Cercle Est Elle Impossible ? #6 - Joaquín Navaro.md
+429 Les Musiques Du Monde En Question - Jean Duvignaud, Chérif Khaznadar.md
+430 Théâtre Complet Tom 4 - William Shakespeare.md
+431 Les Douze Travaux D'Hercule - Mythologie.md
+432 Contes Choisis - Voltaire.md
+433 L'odyssée - Homère.md
+434 Le Royaume Des Animaux 13 : Ichleu Lépis - Maurice Burton, Robert Burton .md
+435 Geek Sublime - Vikram Chandra.md
+436 Pauline - George Sand.md
+437 Dodécade 2 - Librairie Ariane Adeline.md
+438 Voyages Extraordinaires : Le Tour Du Monde En 80 Jours, Le Docteur Ox - Jules Verne.md
+439 Sidour Bné Issakhar - Unknown.md
+440 Le Jazz - Philippe Hucher.md
+441 La Chartreuse De Parme - Stendhal.md
+442 The Miles Davis Book  - Pierre Jean Crittin, Franck Fatalot.md
+443 Les 7 Habitudes De Ceux Qui Réalisent Tout Ce Qu'ils Entreprennent - Stephen R. Covey.md
+444 Le Solfège Pour Les Nuls - Michael Pilhofer, Holly Day, Jean Clément Jollet.md
+445 Toutes Les Mathématiques Du Monde - Hervé Lehning.md
+446 Le Petit Larousse Grand Format 2005 - Christian Lacroix.md
+447 Le Royaume Des Animaux 25 : Tribo Yéti - Maurice Burton, Robert Burton .md
+448 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+449 Nouveau Manuel De Botanique élémentaire Et De Botanique Appliquée - M. Villette.md
+450 1984 - Georges Orwell.md
+451 Chopin - Franz Liszt.md
+452 L’egypte, Histoire Et Civilisation  - Unknown.md
+453 On M'avait Dit Que C'était Impossible - Jean Baptiste Rudelle.md
+454 Les Polyèdres : Les Mille Facettes De La Beauté Géométrique #20 - Fernando Corbalán.md
+455 Les Formes Qui Se Déforment : La Topologie #32 - Vincente Muñoz.md
+456 Sapiens - A Brief History of Humankind - Yuval Noah Harrari.md
+457 La Secte Des Nombres : Le Théorème De Pythagore #4 - Claudi Alsina.md
+458 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+459 Petite Histoire De La Litterature Française - Emile Faguet.md
+460 Cours De Machines : Première Partie  - Haton De La Goupilliere .md
+461 La Méthode Value Proposition Design - Alan Smith, Greg Bernarda, Yves Pigneur, Alex Osterwalder.md
+462 Eloquent Javascript - Marijn Haverbeke.md
+463 Le Royaume Des Animaux 14 : Lépis Maca - Maurice Burton, Robert Burton .md
+464 Une Nouvelle Manière De Voir Le Monde : La Géométrie Fractale #9 - Isabel Binimelis Bassa.md
+465 La Monnaie, Un Enjeu Politique - J. M. Harribey, E. Jeffers, J. Marie, D. Plihon, J. F. Ponsot.md
+466 Connoiſſance De La Mythologie - Demandes Et Reponses.md
+467 Blockchain   La Révolution De La Confiance  - Laurent Leloup .md
+468 Le Royaume Des Animaux 13 : Ichleu Lépis - Maurice Burton, Robert Burton .md
+469 A Promised Land - Barack Obama.md
+470 Jimi Hendrix Electric Life : Biographie D'une Légende - Vincent Brunner.md
+471 Les Métamorphoses - Ovide.md
+472 Prestige De La Musique - Unknown.md
+473 Oeuvres Complètes : La Main Gauche, L'inutile Beauté, Contes Divers, Fragments - Guy De Maupassaant.md
+474 Eugénie Grandet - Honoré De Balzac.md
+475 Nana - Emile Zola.md
+476 3 Minutes Pour Comprendre Les 50 Plus Grandes Théories Mathématiques  - Richard Brown.md
+477 Musiques électroniques - Guillaume Kosmicki.md
+478 Start With Why - How Great Leaders Inspire Everyone To Take Action - Simon Sinek.md
+479 Guide Des Jeunes Mathématiciens - M. L'abbé De La Caille.md
+480 Collecting old books.md
+481 Antilibrary.md
+482 Classic French author as sociolgists and politicians.md
+483 Books.md
+484 Life changing books.md
+485 Non exhaustive device list for smart home.md
+486 Speakers.md
+487 Displays.md
+488 Doorbell.md
+489 Security cameras.md
+490 Garden.md
+491 Locks.md
+492 Thermostats and heaters.md
+493 Lighting.md
+494 Kitchen.md
+495 Plugs.md
+496 Vacuum cleaners.md
+497 Miscellaneous devices.md
+498 IoT.md
+499 Smart home.md
+500 A brief history of IoT.md
+501 README.md
+502 Non Fungible Tokens (NFT).md
+503 Buying cryptocurrencies.md
+504 Wallets.md
+505 Architecture.md
+506 Library as space separation.md
+507 Biophilic design.md
+508 Bridges.md
+509 The will to power.md
+510 Morality.md
+511 Nihilism.md
+512 Übermensch.md
+513 Dualism.md
+514 Contact me 💌.md
+515 Virtual reality.md
+516 Live music.md
+517 Places in the north of France.md
+518 Software design principles applied to digital gardening.md
+519 Evergreen notes.md
+520 Digital garden.md
+521 Atomic design applied to digital gardening.md
+522 Digital garden inspirations.md
+523 Graph evolution.md
+524 Wikibsidian.md
+525 Keeping track of ideas.md
+526 Osmosis.md
+527 Garden subjects.md
+528 Tinder AI Bot.md
+529 Personal digital art museum.md
+530 The Pi-Dive.md
+531 MVP (Minimum Viable Product).md
+532 The Why.md
+533 My journey at Station F.md
+534 Vocabulaire.md
+535 Vocabulary.md
+536 Music sheet template.md
+537 Overconfidence bias.md
+538 Rebound effect.md
+539 Pygmalion effect.md
+540 Milgram's experience.md
+541 Parkinson law.md
+542 Zeigarnik effect.md
+543 Making new friends.md
+544 Have better conversations.md
+545 Keeping relationships.md
+546 Micronesia.md
+547 Pre-requesites.md
+548 Destinations.md
+549 New Caledonia.md
+550 French Polynesia.md
+551 Scuba diving round-the-world trip.md
+552 Serendipity.md
+553 Madrier.md
+554 Sagacité.md
+555 Porion (contexte minier).md
+556 Planchéier.md
+557 Minoterie.md
+558 Rivelaine.md
+559 Échiner.md
+560 Poupine.md
+561 Beffroi.md
+562 Estaminet.md
+563 Goberger.md
+564 Sardonique.md
+565 Consubstantiel.md
+566 Dreyfusard.md
+567 Haver.md
+568 Nubile.md
+569 Scélératesse.md
+570 Prodigalité.md
+571 Liminaire.md
+572 Herscheur·euse.md
+573 Nef.md
+574 Escaillage.md
+575 Scrofules.md
+576 Pétroleuse.md
+577 Lampisterie.md
+578 Ployer.md
+579 Bombance.md
+580 Vieilles nippes.md
+581 Hardi.md
+582 Resolving Heroku slug size problem.md
+583 Adopting new habits.md
+584 Microproductivity.md
+585 Mind maps.md
+586 My productivity tools.md
+587 MVD (Minimum Viable Day).md
+588 Decision fatigue.md
+589 Multitasking is counterproductive.md
+590 Growth mindset.md
+591 Social media detox.md
+592 Thinking in writing.md
+593 Ego depletion.md
+594 France- (or French)
+595 Literature/classic/play.
+596 Drama.
+597 202106131132 Litterature notes helps comparing different authors ideas.md
+598 Russian fiction.
+599 Machines
+600 Future predictions.
+601 Reference material.
+602 Animals.
+603 Business ownership.
+604 Adjectives.
+605 Zoology.
+606 Damaged book.
+607 Cats.
+608 Language reference.
+609 Animals.
+610 1969 book.
+611 French animals.
+612 French animals.
+613 "Feline book"
+614 Animals.
+615 French knowledge.
+616 Fiction works.
+617 Book about cats.
+618 French animals.
+619 books
+620 Animals
+621 Animals.
+622 Cats.
+623 Felines.
+624 Cats
+625 Vintage Cats.
+626 None
+627 Le Royaume Des Animaux 25 : Tribo Yéti - Maurice Burton, Robert Burton .md
+628 Les Mathématiques Dans L'économie : Les Chiffres Et Leur Sens #39 - Lluís Artal, Josep Sales.md
+629 None.
+630 No commonality.
+631 No commonality.
+632 Nitrox.md
+633 Trimix gas.
+634 Music books.
+635 Le Meilleur Des Mondes - Aldous Huxley.md
+636 None.
+637 Narrative prose.
+638 Mathematics writing.
+639 Francophone proficiency.
+640 202106122246 Smart notes are about thinking beyound actual context.md
+641 Jazz.
+642 Music genre.
+643 Organization tools.
+644 Information management.
+645 Written stories.
+646 Organization tool.
+647 Les Mathématiques Dans L'économie : Les Chiffres Et Leur Sens #39 - Lluís Artal, Josep Sales.md
+648 Written stories.
+649 Book genre.
+650 Textual interpretation.
+651 Critique expectation.
+652 Visualization.
+653 Life stories.
+654 Programming.
+655 Information processing.
+656 Interpretation skills.
+657 Music education.
+658 Creative limitations.
+659 Reading proficiency.
+660 Leadership approach
+661 Note-taking.
+662 Productivity aid.
+663 A Promised Land - Barack Obama.md
+664 Literary memoir, 218 pages.
+665 Reading analysis
+666 La Musique Du Xxème Siècle - Benoît Berthou.md
+667 Book/Economics.
+668 Learning tool.
+669 La Musique Du Xxème Siècle - Benoît Berthou.md
+670 Written notes
+671 Historical music.
+672 Musical history.
+673 Science Fiction.
+674 Music instruction
+675 Adventure
+676 Psychoanalysis.
+677 Non-fiction writing.
+678 Music education.
+679 Organization tool.
+680 Les Mathématiques Dans L'économie : Les Chiffres Et Leur Sens #39 - Lluís Artal, Josep Sales.md
+681 Advice genres.
+682 Note-taking.
+683 "L'Insurgé" purchase
+684 Psychoanalysis tool.
+685 Music study.
+686 Information source.
+687 Mathematics textbook.
+688 Book quality.
+689 Reviewing books.
+690 Consuming literature.
+691 Reading skills.
+692 Reading comprehension.
+693 Purchase history.
+694 Digital content creation.
+695 Buying books.
+696 Analyzing text.
+697 Musical knowledge.
+698 Exploration journey.
+699 Recording information.
+700 Musical literacy.
+701 Text medium.
+702 Counting methods.
+703 Reading skills.
+704 Sheet music.
+705 Siberian adventure.
+706 Imagination.
+707 Exploration methods.
+708 Collecting old books.md
+709 Virtuality.
+710 Brain function.
+711 202106152315 Zettelkasten make the act of choosing topic seamless.md
+712 Breaking rocks.
+713 Quantitative analysis.
+714 Cognition and music.
+715 Print version.
+716 Numerical understanding.
+717 Oeuvres Complètes : La Main Gauche, L'inutile Beauté, Contes Divers, Fragments - Guy De Maupassaant.md
+718 Mathematical language.
+719 Mathematics convention.
+720 Art/Technology.
+721 Translation.
+722 Cryptocurrency basics.
+723 Rationalism.
+724 Acquisition techniques.
+725 Documentation method.
+726 Word comprehension.
+727 Print clarity.
+728 Binary constraints.
+729 Authorship
+730 Readability.
+731 Note-taking.
+732 Studio soundproofing
+733 Readability.
+734 Language proficiency.
+735 Written record keeping.
+736 Intelligence enhancement.
+737 Intellectual exploration.
+738 Numbers, symbols.
+739 Reading improvement.
+740 Learning improvement.
+741 La Secte Des Nombres : Le Théorème De Pythagore #4 - Claudi Alsina.md
+742 Organizing information.
+743 Mathematical notation.
+744 Biographical writing.
+745 Problem solving math.
+746 Ideas.
+747 Biography
+748 Creative expression.
+749 Narrative storytelling.
+750 Note-taking efficiency.
+751 Diving gas.
+752 Startup Funding.
+753 Descriptive statistics.
+754 Words: Data analysis.
+755 Innovation.
+756 Note-taking optimization.
+757 Literacy skill.
+758 202106131132 Litterature notes helps comparing different authors ideas.md
+759 Symbolic communication.
+760 Written expression.
+761 Language.
+762 Jimi Hendrix Electric Life : Biographie D'une Légende - Vincent Brunner.md
+763 French language.
+764 Music cognition.
+765 Reading proficiency.
+766 Symbolic language.
+767 Language system.
+768 Visual communication.
+769 Creative expression.
+770 French numerals.
+771 Numbers in text.
+772 Technology.
+773 Cognition.
+774 Recording setup.
+775 Information management.
+776 Text numbers.
+777 Nitrogen narcosis.
+778 Alchemy - France.
+779 Written word.
+780 Digital ownership.
+781 Text format.
+782 Entrepreneurship.
+783 Learning skills.
+784 Interstellar exploration.
+785 SOLID.md
+786 Alchemy origins.
+787 202106152233 Thinking about solutions to previous problem helps finding creative solutions.md
+788 Expectation critique.
+789 Data analysis.
+790 Mathematics convention: Gathering mathematicians.
+791 Origins of belief.
+792 Gathering beliefs.
+793 Evaluating ideas.
+794 Mental analysis.
+795 Psychology liaison.
+796 Imagination connection.
+797 Building design
+798 Mythical imagination.
+799 Smart technology.
+800 Creativity expression.
+801 Information processing.
+802 Problem solving creativity.
+803 Cognitive skills.
+804 Efficiency.
+805 Personal development.
+806 self-help
+807 202106152233 Thinking about solutions to previous problem helps finding creative solutions.md
+808 Creativity boost.
+809 Productivity
+810 Outdoor challenge
+811 202106152233 Thinking about solutions to previous problem helps finding creative solutions.md
+812 Creative thinking.
+813 202106152233 Thinking about solutions to previous problem helps finding creative solutions.md
+814 Creativity.
+815 Innovation.
+816 Musical innovation.
+817 Creative vision.
+818 Editing vision.
+819 Writing craft.
+820 Smartness.
+821 Writing advice.
+822 Educational progress
+823 Diving gas.
+824 Words: "Editing Math Books"
+825 None.
+826 None.
+827 Cognition enhancement.
+828 Concentration aid.
+829 None.
+830 Fiction.
+831 Imagination boost.
+832 Mental performance
+833 Imaginative storytelling.
+834 Narrative economics.
+835 Modeling systems.
+836 Books.
+837 Quantitative analysis.
+838 Publication date.
+839 Learning improvement.
+840 Time stamp.
+841 Skills enhancement.
+842 Personal growth.
+843 Language origin.
+844 Social gatherings.
+845 Reading improvement.
+846 Words: Writing, Spanish, Mexican.
+847 Automation technology
+848 Language.
+849 Communication.
+850 Textual interpretation.
+851 Language.
+852 French
+853 Astrophysicist.
+854 La Musique Des Sphères : Astronomie Et Mathématique #25 - Maria Ros.md
+855 STEM.
+856 Creativity.
+857 Describing words.
+858 Analytical skills.
+859 Theater.
+860 Money management
+861 Reggae genre
+862 Skill development.
+863 Performance art.
+864 Self-expression.
+865 Personal finance.
+866 Driving mines.
+867 Breathing mixtures.
+868 Smart home technology.
+869 "Business strategy"
+870 Gas mixtures.
+871 Home surveillance.
+872 Information management.
+873 Writing system.
+874 1925
+875 Leadership literature.
+876 Art Deco.
+877 Aesthetics.
+878 Security technology.
+879 Visual appeal.
+880 Mental ability.
+881 Publication design.
+882 Learning potential.
+883 Creativity.
+884 Thinking about thought.
+885 Gatherings.
+886 Adaptation.
+887 Interpretation.
+888 Meaning analysis.
+889 "Curiosity"
+890 Interpretation skills.
+891 Video editing tools.
+892 Constraints.
+893 Reading analysis.
+894 Self-improvement.
+895 Critical thinking.
+896 Logic circuits.
+897 Adventure exploration.
+898 Analytical skills.
+899 Reading habits.
+900 Book buying.
+901 Reading interests.
+902 Connected homes.
+903 Self-improvement.
+904 Collectible assets.
+905 Personal growth.
+906 Theatre.
+907 Performance art.
+908 Creativity.
+909 Improvement.
+910 Brain enhancement.
+911 Online purchase.
+912 Comparative analysis.
+913 Self-improvement.
+914 Influence
+915 Reading skills.
+916 Islands
+917 None.
+918 Cybercrime admission.
+919 Persuasion techniques.
+920 Home automation.
+921 Critical thinking.
+922 Propaganda techniques.
+923 Automation.
+924 Language skills.
+925 Persuasion techniques.
+926 Secondhand fashion.
+927 Digital media.
+928 Words: Analysis, Communication
+929 Connected automation.
+930 Linguistic joy.
+931 Communication skills.
+932 Introduction style.
+933 Language technology.
+934 Investment criteria.
+935 Investments.
+936 Ownership of items.
+937 Information management.
+938 Publishing
+939 Montpellier Bookstore.
+940 Moral reasoning.
+941 Knowledge sharing.
+942 Leadership skills.
+943 Information sharing.
+944 Organizational management.
+945 Decision-making.
+946 Evaluation process.
+947 Note-taking.
+948 Smart music production.
+949 Learning skills.
+950 Information technology.
+951 Financial planning.
+952 Information technology.
+953 Language technology.
+954 Text processing.
+955 Publication date: 03/2017
+956 Learning process
+957 Cryptocurrency trading
+958 "Used items"
+959 Problem-solving process.
+960 Online security.
+961 Digital currency security.
+962 Immersive technology.
+963 Communication, Resolution
+964 202106152233 Thinking about solutions to previous problem helps finding creative solutions.md
+965 Online security.
+966 Personal possessions.
+967 202106152233 Thinking about solutions to previous problem helps finding creative solutions.md
+968 Unrelated topics.
+969 Wickedness
+970 Information source.
+971 No commonality.
+972 No match.
+973 Island geography.
+974 Religion.
+975 Critical thinking.
+976 None.
+977 Taste in media.
+978 Action words.
+979 Polysemous vocabulary.
+980 Cognitive skills.
+981 Written opinions.
+982 Quality words.
+983 Memory aids.
+984 Underwater expeditions.
+985 Expressive writing
+986 Secondhand sales.
+987 Human agency.
+988 Creative expression.
+989 Interpretive analysis.
+990 Analysis of mathematics.
+991 Self-help.
+992 Definition clarification.
+993 Memory improvement.
+994 Mental motivation.
+995 Home automation.
+996 Learning skills.
+997 Cognition connection.
+998 Cognitive limitations.
+999 Information processing.
+1000 Innovation.
+1001 Library software.
+1002 Productivity enhancer.
+1003 "Demonic"
+1004 Internet of Things (IoT)
+1005 Efficiency improvement.
+1006 Motivational guidance.
+1007 Advice.
+1008 Organization aid.
+1009 Self-improvement.
+1010 Music creation.
+1011 Guidance.
+1012 Data literacy.
+1013 Devices.
+1014 Information management.
+1015 Connected devices.
+1016 Task tracking.
+1017 Digitalization
+1018 Memory support.
+1019 Words, Tasks.
+1020 Free will.
+1021 Clarifying definitions.
+1022 Information age.
+1023 Defining entities
+1024 Smart cleaning.
+1025 Linguistic terms
+1026 Virtual experiences.
+1027 Online storytelling.
+1028 Multiple meanings.
+1029 Information processing.
+1030 Word usage
+1031 Business models.
+1032 Language ambiguity.
+1033 Entrepreneurial funding.
+1034 Visual storytelling.
+1035 Language ambiguity resolution.
+1036 Memory tool.
+1037 Criteria evaluation.
+1038 Information organization.
+1039 Floors
+1040 SOLID.md
+1041 Advocating Zionism.
+1042 Cognition principles.
+1043 Language clarity.
+1044 Pressure.
+1045 Memory processes.
+1046 Definition tool.
+1047 Social Connections.
+1048 Perception.
+1049 Food words.
+1050 Efficiency aid.
+1051 Israel support.
+1052 Financial management.
+1053 None.
+1054 N/A
+1055 Personal growth.
+1056 Words.
+1057 Finance.
+1058 Syntax guidelines.
+1059 Investor assessment.
+1060 Personal growth.
+1061 Self-improvement.
+1062 Language culture.
+1063 Self-improvement.
+1064 Computer skills.
+1065 Design and construction.
+1066 Audio processing technology.
+1067 Skills development.
+1068 Improving skills through music.
+1069 Arts skills enhancement.
+1070 Technology education
+1071 Comprehension development.
+1072 Trading
+1073 Vertical structures.
+1074 Memory skills.
+1075 Video production.
+1076 Underwater filming.
+1077 Investment options.
+1078 Categorization tool.
+1079 Filming tips.
+1080 French language.
+1081 Cognitive development.
+1082 Innovation inspiration.
+1083 Guide.
+1084 Technique.
+1085 Word meaning.
+1086 Iterative improvement.
+1087 Language features.
+1088 Fundraising strategy.
+1089 Tourism.
+1090 Asset ownership.
+1091 Improvement iteration.
+1092 Classification system.
+1093 Audio analysis.
+1094 Productivity boost.
+1095 Audio processing.
+1096 Ideas generation.
+1097 Virtuality.
+1098 Innovation source.
+1099 Ownership-Innovation.
+1100 Electronic devices.
+1101 Reading devices.
+1102 Formatting rules.
+1103 Document editing.
+1104 Cognition.
+1105 Instructional technology.
+1106 "Reggae Music"
+1107 Entrepreneurship
+1108 Learning spaces.
+1109 Electronics component.
+1110 Creative expression.
+1111 Excessive oxygenation.
+1112 Mental activity.
+1113 Melodies creation
+1114 Learning process.
+1115 Music style.
+1116 Computers
+1117 Knowledge acquisition.
+1118 Communication strategies.
+1119 Planning for future.
+1120 Jamaican genre.
+1121 Over-preparation.
+1122 Reggae music.
+1123 Rigorousness
+1124 Discipline.
+1125 Music genres
+1126 Inflation risk.
+1127 Records management.
+1128 Organization.
+1129 Electronic devices.
+1130 Structure
+1131 Private key structure
+1132 Encryption methods/techniques.
+1133 Recording process.
+1134 Classification methods.
+1135 Classification techniques.
+1136 Categorizing music.
+1137 Predictive modeling.
+1138 "Life prediction"
+1139 Sound production.
+1140 Unclear.
+1141 Audio recording.
+1142 Uncertainty.
+1143 Algorithmic predictions.
+1144 Sound accuracy.
+1145 Business analytics.
+1146 Technology progression.
+1147 Style innovation.
+1148 Leadership evolution.
+1149 Audio data processing.
+1150 Communication skills.
+1151 Information management.
+1152 Digitalization.
+1153 Analysis of content.
+1154 Content analysis.
+1155 Analysis
+1156 Musical notation.
+1157 Symbols.
+1158 Musical notation.
+1159 Sound production.
+1160 None.
+1161 Human behavior.
+1162 Audio equipment.
+1163 Engineering
+1164 Innovation.
+1165 Sound technology.
+1166 Innovation roadmap.
+1167 Software development.
+1168 Strategy.
+1169 Planning.
+1170 Content creation.
+1171 Narrative composition.
+1172 Cognitive bias.
+1173 Perception distortion.
+1174 Signal distortion.
+1175 Perception processing.
+1176 Cognitive processing.
+1177 Processing
+1178 Challenging norms.
+1179 Adaptation.
+1180 Improvement adaptation.
+1181 Home design.
+1182 Functionality.
+1183 Device performance.
+1184 Audio quality.
+1185 Perception quality.
+1186 Measurement error.
